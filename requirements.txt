@@ -1,0 +1,8 @@
+Streamlit
+seaborn 
+plotly.express
+matplotlib
+streamlit-option-menu 
+pandas
+numpy
+plotly.graph_objects
