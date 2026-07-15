@@ -1,7 +1,7 @@
-streamlit==1.59.2
-pandas==2.3.1
-numpy==2.3.1
-plotly==6.2.0
-matplotlib==3.10.5
-seaborn==0.13.2
-streamlit-option-menu==0.4.0
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+streamlit-option-menu
